@@ -1,0 +1,49 @@
+body{font-family:arial;
+}
+table, th, td {
+   
+	height:80px;
+}
+table, th, td, img
+{
+text-align:center;
+}
+a{
+	color: wheat;
+	font-size: larger;
+	text-decoration: none;
+}
+#a2{
+    font-size: 10px; 
+    
+    text-decoration: none;
+    color: wheat;
+    background-color: darkblue;
+
+}
+h4{
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  li{
+    float: left;
+  }
+  
+  
+  li a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
